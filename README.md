@@ -42,7 +42,7 @@ Install npm packages
 npm install
 ```
 
-Build javascript
+Build javascript/typescript
 
 ```sh
 npm run build_wp
