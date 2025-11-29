@@ -1,0 +1,24 @@
+{
+  "name": "cube-run",
+  "version": "1.0.0",
+  "scripts": {
+    "build_wp": "webpack --config webpack.config.js",
+    "watch_wp": "webpack --config webpack.config.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel-Risner/cube-run.git"
+  },
+  "author": "Samuel Risner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Samuel-Risner/cube-run/issues"
+  },
+  "homepage": "https://github.com/Samuel-Risner/cube-run#readme",
+  "dependencies": {
+    "ts-loader": "^9.5.4",
+    "typescript": "^5.9.3",
+    "webpack": "^5.103.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
