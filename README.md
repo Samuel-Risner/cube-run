@@ -33,3 +33,17 @@ Exit environment
 ```sh
 deactivate
 ```
+
+# Building
+
+Install npm packages
+
+```sh
+npm install
+```
+
+Build javascript
+
+```sh
+npm run build_wp
+```
